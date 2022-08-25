@@ -3,9 +3,7 @@ All you need is an API key and a payment token and you can start accepting payme
 
 ## Features
 - Run payments for your users directly with Zage
-- Display an informational modal about Zage to help your customers understand how ACH works. 
-
-TODO: List what your package can do. Maybe include images, gifs, or videos.
+- Display an informational modal about Zage to help your customers understand how ACH works.
 
 ## Getting started
 In order to use this package, you need an existing sandbox account with Zage.

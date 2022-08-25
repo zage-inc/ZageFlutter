@@ -1,6 +1,6 @@
 name: zage_flutter
 description: Flutter SDK to accept payments with Zage.
-version: 0.1.0
+version: 0.1.0+1
 homepage: https://github.com/zage-inc/ZageFlutter
 
 environment:
